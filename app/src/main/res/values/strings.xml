@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">Calorietor</string>
+
+    <string-array name="activity">
+        <item>Little/no exercise</item>
+        <item>Light exercise (1-2 times/week)</item>
+        <item>Moderate exercise (2-3 times/week)</item>
+        <item>Hard exercise (3-5 times/week) </item>
+        <item>Physical Job (6-7 times/week)</item>
+        <item>Professional Athlete</item>
+    </string-array>
+</resources>
